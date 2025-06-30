@@ -15,15 +15,15 @@ x = str(3) # x will be '3' string value
 y = int(4) # y will be 4 intiger value
 z = float(3) # z will be 3.0 this float value 
 
-# print(x);
-# print(y);
-# print(Z);
+print(x);
+print(y);
+print(Z);
 
 # ------- get the type using type 
 
-# print(type(x)) # ----- type is str
-# print(type(y)) # ----- type is int
-# print(type(z)) # ----- type is float
+print(type(x)) # ----- type is str
+print(type(y)) # ----- type is int
+print(type(z)) # ----- type is float
 
 # -----------  Case-Sensitive
 # ----------- This will create two variables:
